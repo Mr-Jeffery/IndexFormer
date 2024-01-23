@@ -1,2 +1,2 @@
 # IndexFormer
-Using Transformer to predict ^IXIC base on [Predicting stock closing prices in emerging markets with transformer neural networks: The saudi stock exchange case.](https://www.academia.edu/download/83355429/Paper_106-Predicting_Stock_Closing_Prices_in_Emerging_Markets.pdf)
+Using Transformer to predict ^IXIC base on [ A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS](https://arxiv.org/pdf/2211.14730.pdf)
